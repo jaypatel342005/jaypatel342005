@@ -1,3 +1,4 @@
+
 <br clear="both">
 
 <h1 align="center">Hi 👋, I'm Jay Patel!</h1>
@@ -11,6 +12,14 @@
 ###
 
 <img src="https://raw.githubusercontent.com/jaypatel342005/jaypatel342005/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">__________________________________________________________________________________________________________________</p>
+
+###
+
+<h3 align="center">Total Profile Views</h3>
 
 ###
 
@@ -49,6 +58,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
 </div>
+
+###
+
+<p align="left">__________________________________________________________________________________________________________________</p>
 
 ###
 
@@ -106,7 +119,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.gifer.com/9Pf1.gif"  />
+<img align="left" height="150" src="https://i.gifer.com/9kGQ.gif"  />
 
 ###
 
@@ -114,7 +127,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.gifer.com/9kGQ.gif"  />
+<img align="left" height="150" src="https://i.gifer.com/9Pf1.gif"  />
 
 ###
 
