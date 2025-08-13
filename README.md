@@ -29,6 +29,7 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaypatel342005.jaypatel342005&"  />
   <img src="https://profile-counter.glitch.me/jaypatel342005/count.svg?"  />
 </div>
 
