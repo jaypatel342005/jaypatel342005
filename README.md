@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Jay Patel!</h1>
 <h3 align="center">A passionate developer from Morbi , Gujarat , India</h3>
-<h5 align="left">👨‍💻I’m currently  studying in Darshan University.</h5>
+<h3 align="center">👨‍💻I’m currently  studying in Darshan University</h3>
+
 
 - 🌱 I’m currently learning **Data Mining, DAA, ASP.NET Core, Fullstack Development**
 
@@ -36,6 +37,8 @@
 ###
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaypatel342005&label=PROFILE+VIEWS&color=red&style=for-the-badge)
 
   <img src="https://profile-counter.glitch.me/jaypatel342005/count.svg?"  />
 </div>
