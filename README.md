@@ -1,12 +1,19 @@
+![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?t=st=1723043645~exp=1723047245~hmac=d8bf2ec64cf6a0946fcd940bbd4f8dfdce07813090aa9c074eae47be60ae897f&w=1380)
 <br clear="both">
 
 <h1 align="center">Hi 👋, I'm Jay Patel!</h1>
-
-###
-
-<br clear="both">
-
+<h3 align="center">A passionate developer from Morbi , Gujarat , India</h3>
 <h5 align="left">👨‍💻I’m currently  studying in Darshan University.</h5>
+
+- 🌱 I’m currently learning **Data Mining, DAA, ASP.NET Core, Fullstack Development**
+
+- 💬 Ask me about **Data Structure, React, Javascript, Java, Python, SQL, C, HTML, CSS**
+
+- 📫 How to reach me **pateljay98796@gmail.com**
+
+- ⚡ Fun fact **A friendly and approachable leader with a strong focus on communication. Passionate about building connections, fostering teamwork, and inspiring others to reach their full potential.**
+
+
 
 ###
 
